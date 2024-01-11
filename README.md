@@ -22,4 +22,4 @@ Follow these steps to get started with the Student Registration Form application
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Amitabhchaurasia/Student_Registration.git
+   git clone https://github.com/Amitabhchaurasia/Student_Registration
